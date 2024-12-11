@@ -1,0 +1,82 @@
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux specific files
+.directory
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer logs
+*.log
+
+# Windows Installer package files
+*.pdb
+*.obj
+*.lib
+*.idb
+*.ilk
+*.exp
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Thumbs.db
+Thumbs.db
+
+# JetBrains Rider files
+.idea/
+
+# ASP.NET files
+*.vspscc
+*.vssscc
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug/ 
+[Dd]eploy/
+[Dd]eployments/
+bin/
+obj/
+
+# NPM packages
+node_modules/
+
+# Temporary files from Visual Studio
+.vs2019/
+.vs2017/
+
+# Other IDE files
+*.user
+*.suo
+*.userosscache
+
+# Package Managers
+/package-lock.json  # npm lock file
+/yarn.lock          # yarn lock file
+
+# NuGet packages
+/packages/
+
+# Backup files from editors
+*~
+*.bak
+*.swp
+
+# Generated files and folders
+/Generated/
+/tmp/
+/logs/
